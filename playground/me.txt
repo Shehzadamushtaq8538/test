@@ -1,5 +1,1 @@
-{{#user}}
-Name: SHEHXZADA MUSHTAQ
-Skills: Python, c, cpp, Java, SQL ,AI,ML
-Email: shehzadamushtaq12@gmail.com
-{{/user}}
+
