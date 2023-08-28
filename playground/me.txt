@@ -1,5 +1,5 @@
 {{#user}}
-Name: Ritesh
-Skills: HTML, CSS, JS, Next.js
-Email: test@gmail.com
+Name: SHEHXZADA MUSHTAQ
+Skills: Python, c, cpp, Java, SQL ,AI,ML
+Email: shehzadamushtaq12@gmail.com
 {{/user}}
